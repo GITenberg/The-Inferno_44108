@@ -22,6 +22,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
 description: Partly autobiographical novel, based on author's years in Paris when
   he suffered a personal crisis, and originally written in French (from Wikipedia).
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44108#The-Inferno
 gutenberg_issued: '2013-11-05'
 gutenberg_type: Text
 identifiers:
