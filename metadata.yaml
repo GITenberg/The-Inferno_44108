@@ -1,0 +1,39 @@
+_repo: The-Inferno_44108
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Field, Claud
+    alias: Field, Claud Herbert Alwyn
+    birthdate: 1863
+    deathdate: 1941
+    gutenberg_agent_id: '26394'
+    url: http://www.gutenberg.org/2009/agents/26394
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: Partly autobiographical novel, based on author's years in Paris when
+  he suffered a personal crisis, and originally written in French (from Wikipedia).
+gutenberg_issued: '2013-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44108'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, Swedish -- 19th century -- Biography'
+- !lcsh 'Strindberg, August, 1849-1912'
+- !lcsh 'Autobiographical fiction'
+- !lcc 'PT'
+title: The Inferno
+url: http://www.gutenberg.org/ebooks/44108
