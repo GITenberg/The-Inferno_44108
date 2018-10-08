@@ -13,6 +13,7 @@ Author: August Strindberg
 Translator: Claud Field
 
 Release Date: November 5, 2013 [EBook #44108]
+Last Updated: February 28, 2018
 
 Language: English
 
@@ -271,7 +272,7 @@ immortality grudged to mortals.
 
 But the skin of my hands, nearly roasted by the strong fire, peels
 off: in scales, and the pain they cause me when undressing shows me
-what a price I have paid for my victory. But, as I lie alone in bed,
+what a price I have paid for my victory. But, as the alone in bed,
 I feel happy, and I am sorry I have no one whom I can thank for my
 deliverance from the marital fetters which have been broken without
 much ado. For in the course of years I have become an atheist, since
@@ -347,7 +348,7 @@ second troop shouts at me, "There is the hermit!" Driven forth again I
 fly home, accompanied by the unnerving tones of the mirliton pipes.
 
 The thought that it might be a chastisement, the result of a crime,
-does not occur lo me. In my own mind I feel guiltless, and consider
+does not occur to me. In my own mind I feel guiltless, and consider
 myself the object of an unjust persecution. The unknown powers have
 hindered me from continuing my great work. The hindrances must be
 broken through before I obtain the victor's crown.
@@ -535,7 +536,7 @@ vegetables, especially sauerkraut. Suspicious-looking figures brush
 past me, muttering objurgations. I become nervous, turn to the right,
 then to the left, and get into a dark blind alley, the haunt of filth
 and crime. Street girls bar my way, street boys grin at me. The scene
-of Christmas night is repeated, "Vœ soli."[2] Who is it that plays
+of Christmas night is repeated, "Væ soli."[2] Who is it that plays
 me these treacherous tricks as soon as I seek for solitude? Someone has
 brought me into this plight. Where is he? I wish to fight with him!
 
@@ -714,7 +715,7 @@ regard my undertaking with scorn and prejudice.
 About fourteen days have passed, and I have discovered incontrovertible
 proofs that sulphur is a threefold combination of carbon, oxygen, and
 hydrogen. I thank the Director of the laboratory, who, as it appears,
-takes 110 interest in my affairs, and leave this new purgatory full of
+takes no interest in my affairs, and leave this new purgatory full of
 deep, unspeakable joy.
 
        *       *       *       *       *
@@ -1260,7 +1261,7 @@ to practise magic, especially those forms of it called wizardry, or
 more properly witchcraft, and whose reality has been placed beyond all
 doubt by De Rochas.[1]
 
-One Sunday before Easter I went very early through the Jar din de
+One Sunday before Easter I went very early through the Jardin de
 Luxembourg, crossed the street, and passed under the arcades of the
 Odeon; I stood still before an edition of Balzac in a blue binding,
 and by chance picked out his novel _Séraphita_. Why just that one?
@@ -1647,7 +1648,7 @@ _May_ 19_th_.--I don't venture to go to the café.
 _May_ 20_th_.--I have slunk round the terrace of the Lilas, and at last
 found my corner unoccupied. One must fight the evil spirits and begin
 the war oneself. The absinthe is made, the cigarette glows, and the
-Temps has important news. Then (I speak the truth, reader), a chimney
+_Temps_ has important news. Then (I speak the truth, reader), a chimney
 of the café over my head takes fire! There is a universal panic. I
 remain sitting, but a stronger will than mine directs a cloud of soot
 with such a good aim on me, that two large flakes settle on my glass.
@@ -1760,7 +1761,7 @@ The other side of the river is, for us dwellers in Montparnasse, a
 foreign world. It is nearly a year since I visited the Lyons Bank,
 or the Café de la Régence. On the Boulevard des Italiens, I felt
 homesick, and I hurried back to the river, where the sight of the Rue
-des Saints Pères revived me. Near the Church St. Ger-main des Prés I
+des Saints Pères revived me. Near the Church St. Germain des Prés I
 met a funeral, and after that, two colossal Madonnas, which were being
 carried on a cart. One of them, with folded hands and eyes directed
 heavenwards, made a deep impression on me.
@@ -1847,7 +1848,7 @@ suppose that I have set on foot that humbug or witchcraft.
 
 I have bought myself a rosary. Why? It is pretty, and the evil spirits
 fear the Cross; besides, I don't worry any more about the motives
-of my actions. I act, as the humour takes mo, and life is much more
+of my actions. I act, as the humour takes me, and life is much more
 interesting. There is a sudden change as regards the Popoffsky case.
 His friend the Dane begins to doubt his having committed the crime,
 and says the accusation against him was refuted at the inquest. The
@@ -1960,8 +1961,8 @@ the theologians say, as "hypostases." The second difference of opinion
 was regarding the denying and putting to death of one's own self, which
 always seemed to me perfectly foolish, and seems so still.
 
-Everything, _i.e._, the little which I know, goes hack to the Ego as
-its central point. Not the cult us, indeed, but the culture of this Ego
+Everything, _i.e._, the little which I know, goes back to the Ego as
+its central point. Not the cultus, indeed, but the culture of this Ego
 seems, therefore, the highest and ultimate aim of existence. My final
 and constant answer to his objections, therefore, was: "The killing of
 the Ego is self-murder."
@@ -2113,7 +2114,7 @@ in the fire; yea, also, I have baked bread upon the coals thereof, I
 have roasted flesh and eaten it; and shall I make the residue thereof
 an abomination? Shall I fall down to the stock of a tree? He feedeth on
 ashes; a deceived heart hath turned him aside, that he cannot deliver
-his soul nor say, Is there not a lie in my right hand. Tims saith the
+his soul nor say, Is there not a lie in my right hand. Thus saith the
 Lord, thy Redeemer, and he that formed thee from the womb, I am the
 Lord that maketh all things, that stretcheth forth the heavens alone,
 that spreadeth forth the earth; who is with me? that frustrateth the
@@ -2145,7 +2146,7 @@ copied the famous experiment of Pettenkofer, and discharged a stream of
 gas through the wall. What shall I do? Go to the police? No! for if I
 can adduce no proofs they will shut me up as a lunatic.
 
-Vœ soli! Woe to the solitary, the sparrow upon the housetop! Never
+Væ soli! Woe to the solitary, the sparrow upon the housetop! Never
 was my misery greater, and I weep like a forsaken child that fears the
 dark.
 
@@ -2223,7 +2224,7 @@ behind man I discover the Creator--the great Artist who develops as
 he creates, sets on fool designs which He rejects later on, resumes
 plans which have failed, and completes and multiplies primitive forms
 endlessly. All is the work of His hand. Often in the discovery of
-methods He makes enormous leaps, and then Science conies and ascertains
+methods He makes enormous leaps, and then Science comes and ascertains
 the extent of the gaps and the missing links, and imagines that it has
 found the intermediary forms which have disappeared.
 
@@ -2231,7 +2232,7 @@ found the intermediary forms which have disappeared.
 
 As I now consider myself safe from my persecutors, I send my address to
 the Pension Orfila in order to resume my correspondence with the outer
-world, lint no sooner have I lifted the mask of my incognito than my
+world, but no sooner have I lifted the mask of my incognito than my
 peace is interrupted. All kinds of things disquiet me, and my former
 discomfort returns.
 
@@ -2246,7 +2247,7 @@ infernal machine.
 Moreover, the landlady, who at first appeared pleased at my taking
 up my abode here, alters her demeanour; she tries to ferret out my
 affairs, and vexes me by her manner of greeting me. Besides this, the
-lodger who occupies the first floor above me, leaves the house. Me was
+lodger who occupies the first floor above me, leaves the house. He was
 a quiet old gentleman, whose heavy footfall was familiar to me. In his
 place comes a reserved-looking tenant who has lived in the house for
 years. He has not changed his lodgings but only his room. Why?
@@ -2288,7 +2289,7 @@ of Lebanon, and the monuments of great epochs when botany was still
 a living science. I buy bread and cherries for my old friends. The
 old bear knows me well, for I am the only one who brings him cherries
 morning and evening. I give bread to the young elephant, who spits in
-my face after he has eaten it--the young, faithless in grate!
+my face after he has eaten it--the young, faithless ingrate!
 
 Farewell, ye vultures who had to exchange the sky for a dirty cage!
 Farewell, bison and behemoth, thou chained demon! Farewell, ye loving
@@ -2458,7 +2459,7 @@ made up for me a provisional bed in case of necessity. There I lie for
 five minutes and collect my thoughts. Is it radiating electricity?
 No; for the compass has not been affected. Is it a diseased state of
 mind induced by fear of the fatal hour of two o'clock? No; for I have
-still the courage to defy attacks, lint why must I light the candles
+still the courage to defy attacks, but why must I light the candles
 and attract the mysterious fluid? In this labyrinth of questioning I
 find no answer, and try at last to go to sleep, but a new discharge
 of electricity strikes me like a cyclone, forces me to rise from bed,
@@ -2550,7 +2551,7 @@ in some quarter, and wants to have me confined. I tell him about my
 sleeplessness, nervousness, and bad dreams, and then we talk of other
 things.
 
-In my room ray attention is arrested by the American bed, with its four
+In my room my attention is arrested by the American bed, with its four
 legs topped by four brass balls, which look like the conductors of an
 electric machine. Add to this an elastic mattress with copper springs,
 resembling Ruhmkorff induction coils, and one can easily imagine my
@@ -2975,7 +2976,7 @@ by lightning, and in other ways. At the end of my pilgrimage there
 certainly await me the twelve stations of the Cross. Every hundred
 paces the Crucified meets me with His crown of thorns, and instils into
 me courage to bear scourging and crucifixion. I painfully convince
-myself beforehand, that she, as I might have known, will not be there.
+myself beforehand, that _she_, as I might have known, will not be there.
 Now, since my wife can no more divert the domestic storm, I must
 expect tit-for-tat from the old parents, whom I left under unpleasant
 circumstances, though against my will. I come accordingly for the sake
@@ -3178,7 +3179,7 @@ dung, the pig-sty--they are all there.
 Hell? But I have been brought up in the profoundest contempt of the
 doctrine of hell, as one consigned to the rubbish-heap of out-worn
 ideas. And yet I cannot deny the fact--and that is the novelty in
-this exposition of the doctrine of so-called eternal punishment? we
+this exposition of the doctrine of so-called eternal punishment--we
 are already in hell. Earth, earth is hell? the dungeon appointed by
 a superior power, in which I cannot move a step without injuring the
 happiness of others, and in which others cannot remain happy without
@@ -3327,7 +3328,7 @@ I am modest."
 "Grace is offered you, but you prefer the mess of pottage to the right
 of the first-born."
 
-"The right of the first-born for the _Son of a Servant_[1] Too much!
+"The right of the first-born for the _Son of a Servant_![1] Too much!
 Too much!"
 
        *       *       *       *       *
@@ -3681,7 +3682,7 @@ to explain how it got there. On the day of the burial, the black
 bird accompanies the funeral procession, and perches on the coffin
 in the churchyard before the ceremony. Every morning this creature
 follows me in my walk, a fact which really disquiets me because of
-the superstitious nature of the people. One day, which is des-tined
+the superstitious nature of the people. One day, which is destined
 to prove its last, the jackdaw accompanies me with horrible screams
 and words of abuse, which the blasphemer had taught him, through the
 streets of the village. Then there come two little birds, a robin
@@ -4162,7 +4163,7 @@ in the good old times the torture chamber in Sweden was called the
 
 At last I spend a night again in a quiet room. The walls are painted
 white and covered with pictures of saints. Over my bed hangs a
-crucifix. But when night conies the spirits begin their tricks again.
+crucifix. But when night comes the spirits begin their tricks again.
 
 I light the candles in order to kill the time with reading. There is
 a weird stillness in which I can hear my heart beating. Then a slight
@@ -4311,7 +4312,7 @@ description of it tallies with mine.
 
 It is then no acoustic hallucination from which I suffer; everywhere
 there are plots, I say to myself. But one day, as I go by chance into a
-shoemaker's shop, the noise instantaneously breaks out, It is no plot,
+shoemaker's shop, the noise instantaneously breaks out. It is no plot,
 then! It is the Devil himself! Hunted from hotel to hotel, pursued
 everywhere by electric wires even to my bed, attacked everywhere
 by electric currents which lift me from my chair, or out of bed, I
@@ -4549,7 +4550,6 @@ coincidence! And has the master and doyen of the Théâtre Français
 observed that the left façade of the building seen from a sufficient
 distance forms an antique human face? This face is the same as that
 which was formed by my cushion-cover.
-
 But in Sardou's drawing there are more of such silhouettes formed by
 the lines of the building. Has the master's hand been guided by another
 hand, so that he produced more than he knew?)
@@ -4579,7 +4579,7 @@ enormous comprehensive staff, consisting of departed souls.
 
 Be comforted, and be proud of the grace bestowed upon you, all ye who
 suffer from sleeplessness, nightmares, apparitions, palpitations, and
-fears of death! Numen adest! God is seeking for you!
+fears of death! _Numen adest!_ God is seeking for you!
 
 
 [1] According to Swedenborg the name of a stage in the religious life.
@@ -4678,7 +4678,7 @@ Think yourself happy and be thankful!
 What is one to do then? Humble oneself?
 
 If you humble yourself before men, you will arouse their pride, for all
-will think themselves, No matter how guilty they may be, better than
+will think themselves, no matter how guilty they may be, better than
 you.
 
 Well, then, is one to humble oneself before God? But is it not
@@ -4889,8 +4889,8 @@ approaches, it is an established fact that such and such an individual
 has the fatal peculiarity of bringing trouble to those who come into
 collision with him. You deny him a request, and your dearest friend
 deceives you; you strike him, and illness makes you keep your bed;
-all the harm you do to him recoils on you in twofold measure. Hut, say
-people, that signifies nothing; 'chance' ran explain these inexplicable
+all the harm you do to him recoils on you in twofold measure. But, say
+people, that signifies nothing; 'chance' can explain these inexplicable
 coincidences. Modern determinism sums itself up in the expression
 'chance.'"
 
@@ -4944,7 +4944,7 @@ Israel."--Ezek. xiv., 8, 9.
 Such then is my life; a sign, an example to serve for the betterment
 of others; a proverb to set forth the nothingness of fame and of
 celebrity; a proverb to show the younger generation how they should not
-live; yes'. I am a proverb, I who regarded myself as a prophet, and am
+live; yes! I am a proverb, I who regarded myself as a prophet, and am
 revealed as a braggart. Now the Eternal has led this false prophet to
 speak empty words, and the false prophet feels irresponsible since he
 has only played the rôle assigned to him.
